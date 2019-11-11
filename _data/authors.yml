@@ -35,6 +35,10 @@ j.asafo:
     name: John Asafo
     web:
     photo: /assets/images/avatars/johna.png
+j.avellaneda:
+    name: Jesús Avellaneda Menchón
+    web:
+    photo: /assets/images/avatars/javellaneda.png
 j.crawley:
     name: James Crawley
     web:
